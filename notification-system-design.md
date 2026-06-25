@@ -9,6 +9,6 @@ Approach:
 6. Refresh every 30 seconds
 
 Priority Algorithm:
-priority score=(priority*100)+(importance*10)
+priority score=(priority * 100)+(importance * 10)
 
 Filtering is done in descending order
